@@ -1,0 +1,33 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "style": "Dive Watch",
+      "price": 10000
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "style": "Chronograph",
+      "price": 6000
+    },
+    {
+      "brand": "Seiko",
+      "model": "SKX007",
+      "style": "Dive Watch",
+      "price": 300
+    },
+    {
+      "brand": "Casio",
+      "model": "G-Shock DW5600",
+      "style": "Digital",
+      "price": 100
+    },
+    {
+      "brand": "Patek Philippe",
+      "model": "Nautilus",
+      "style": "Luxury",
+      "price": 30000
+    }
+  ]
+  
